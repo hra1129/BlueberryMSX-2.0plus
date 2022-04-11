@@ -1,0 +1,1 @@
+The BIOS image is placed here.
